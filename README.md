@@ -5,14 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Skills: C++/ C/ Kotlin/ Python
+   - 🔭 I’m currently working on Android Development and practicing DSA. 
+   - 🌱 I’m currently learning Android Dev.
+   - 👯 I’m looking to collaborate on Open Source Contributions. 
+   - 💬 Ask me about Problem-solving and DSA. 
+   - 😄 Pronouns: she /her. 
+   - ⚡ Fun fact: Purple Day is celebrated on March 26 and there is only one nation with purple in its flag; #Dominica .
 -->
 
 ### About Me
@@ -27,10 +26,4 @@ I have immense interest in learning about Bitcoin and the various technologies b
 I feel very happy to connect you all  🙂
 https://www.linkedin.com/in/kirtiman-singh-72675b22b/
 
-Skills: C++/ C/ Kotlin/ Python
-   - 🔭 I’m currently working on Android Development and practicing DSA. 
-   - 🌱 I’m currently learning Android Dev.
-   - 👯 I’m looking to collaborate on Open Source Contributions. 
-   - 💬 Ask me about Problem-solving and DSA. 
-   - 😄 Pronouns: she /her. 
-   - ⚡ Fun fact: Purple Day is celebrated on March 26 and there is only one nation with purple in its flag; #Dominica .
+
