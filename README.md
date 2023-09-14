@@ -15,9 +15,9 @@ Skills: C++/ C/ Kotlin/ Python
 -->
 
 ### About Me
-A young passionate individual with a vision of making life simpler for others and making a difference. A B.E. 2nd year student pursuing computer science engineering from Chandigarh University. A young mind having an aim to be financially independent at the age of 30.
+A young passionate individual with a vision of making life simpler for others and making a difference. A B.E. student pursuing Computer Science & Engineering from Chandigarh University. A mind having an aim to be financially independent at the age of 30.
 
-I am a fresher and I don't have any work experience. But I was part of many voluntary works and participated in events at school and college levels. All of these helped me to be a better worker in my field.
+I like to interact with people with different mindsets and different thinking give me a source to expand my thinking barriers.
 
 I have immense interest in learning about Bitcoin and the various technologies being built around it. I'm skilled in C, C++, Java, Python, Javascript, HTML, CSS, SQL, Node.js, and Full Stack Developer.
 
