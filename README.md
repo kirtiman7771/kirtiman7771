@@ -19,7 +19,7 @@ A young passionate individual with a vision of making life simpler for others an
 
 I like to interact with people with different mindsets and different thinking give me a source to expand my thinking barriers.
 
-I have immense interest in learning about Bitcoin and the various technologies being built around it. I'm skilled in C, C++, Java, Python, Javascript, HTML, CSS, SQL, Node.js, and Full Stack Developer.
+I have immense interest in learning about Bitcoin and the various technologies being built around it. I'm skilled in C, C++, Python, Javascript, HTML, CSS, SQL, Node.js, and Full Stack Developer.
 
 ### Full Stack Developer 
 
