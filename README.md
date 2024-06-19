@@ -15,7 +15,7 @@ Skills: C++/ C/ Kotlin/ Python
 -->
 
 ### About Me
-A young passionate individual with a vision of making life simpler for others and making a difference. A B.E. student pursuing Computer Science & Engineering from Chandigarh University. A mind having an aim to be financially independent at the age of 30.
+A young passionate individual with a vision of making life simpler for others and making a difference. A B.E. final year student pursuing Computer Science & Engineering from Chandigarh University. A mind having an aim to be financially independent at the age of 30.
 
 I like to interact with people with different mindsets and different thinking give me a source to expand my thinking barriers.
 
